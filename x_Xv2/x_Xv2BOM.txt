@@ -1,8 +1,0 @@
-Rough BOM:
-Bed: Ender 3 220x220 or equivalent 
-Steppers: (5) Nema 17 42mm or smaller
-Rails: (5) mgn9 300mm
-belts: 6mm for XY, (4) 2GT-6-140 
-PSU: 350w or bigger
-Rods: 5x400mm metal or carbon fiber (Must use solid if CF)
-Pulleys: (GT2 Pulley 20 Teeth 8mm
